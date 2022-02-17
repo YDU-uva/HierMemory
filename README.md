@@ -1,3 +1,1 @@
-# VSM
-Learning to Learn Variational Semantic Memory
-Code will be uploaded soon!
+Hierarchical Variational Memory for Few-shot Learning Across Domains
